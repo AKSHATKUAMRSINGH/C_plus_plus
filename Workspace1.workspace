@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace1" Database="" Version="10000">
+  <Project Name="project1" Path="project1/project1.project" Active="No"/>
+  <Project Name="userinput" Path="userinput/userinput.project" Active="No"/>
+  <Project Name="addition" Path="addition/addition.project" Active="No"/>
+  <Project Name="namespaces1" Path="namespaces1/namespaces1.project" Active="No"/>
+  <Project Name="namespace2" Path="namespace2/namespace2.project" Active="No"/>
+  <Project Name="inputoutput1" Path="inputoutput1/inputoutput1.project" Active="No"/>
+  <Project Name="inputoutput2" Path="inputoutput2/inputoutput2.project" Active="No"/>
+  <Project Name="inputoutput3" Path="inoutoutput2/inoutoutput2.project" Active="No"/>
+  <Project Name="inputoutput4" Path="inputoutput4/inputoutput4.project" Active="No"/>
+  <Project Name="inputoutput5" Path="inputoutput5/inputoutput5.project" Active="No"/>
+  <Project Name="inputoutput5" Path="inputoutput5/inputoutput5.project" Active="No"/>
+  <Project Name="inputoutput6" Path="inputoutput6/inputoutput6.project" Active="No"/>
+  <Project Name="inputoutput7" Path="inputoutput7/inputoutput7.project" Active="No"/>
+  <Project Name="Assignment1" Path="Assignment1/Assignment1.project" Active="No"/>
+  <Project Name="globalvariable" Path="globalvariable/globalvariable.project" Active="No"/>
+  <Project Name="globalvariable1" Path="globalvariable1/globalvariable1.project" Active="No"/>
+  <Project Name="primitivedatetypes1" Path="primitivedatetypes1/primitivedatetypes1.project" Active="No"/>
+  <Project Name="primitiveint" Path="primitiveint/primitiveint.project" Active="No"/>
+  <Project Name="primitvefloat" Path="primitvefloat/primitvefloat.project" Active="No"/>
+  <Project Name="declaringusingconstants" Path="declaringusingconstants/declaringusingconstants.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="project1" ConfigName="Debug"/>
+      <Project Name="userinput" ConfigName="Debug"/>
+      <Project Name="addition" ConfigName="Debug"/>
+      <Project Name="namespaces1" ConfigName="Debug"/>
+      <Project Name="namespace2" ConfigName="Debug"/>
+      <Project Name="inputoutput1" ConfigName="Debug"/>
+      <Project Name="inputoutput2" ConfigName="Debug"/>
+      <Project Name="inputoutput3" ConfigName="Debug"/>
+      <Project Name="inputoutput4" ConfigName="Debug"/>
+      <Project Name="inputoutput5" ConfigName="Debug"/>
+      <Project Name="inputoutput5" ConfigName="Debug"/>
+      <Project Name="inputoutput6" ConfigName="Debug"/>
+      <Project Name="inputoutput7" ConfigName="Debug"/>
+      <Project Name="Assignment1" ConfigName="Debug"/>
+      <Project Name="globalvariable" ConfigName="Debug"/>
+      <Project Name="globalvariable1" ConfigName="Debug"/>
+      <Project Name="primitivedatetypes1" ConfigName="Debug"/>
+      <Project Name="primitiveint" ConfigName="Debug"/>
+      <Project Name="primitvefloat" ConfigName="Debug"/>
+      <Project Name="declaringusingconstants" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="project1" ConfigName="Release"/>
+      <Project Name="userinput" ConfigName="Release"/>
+      <Project Name="addition" ConfigName="Release"/>
+      <Project Name="namespaces1" ConfigName="Release"/>
+      <Project Name="namespace2" ConfigName="Release"/>
+      <Project Name="inputoutput1" ConfigName="Release"/>
+      <Project Name="inputoutput2" ConfigName="Release"/>
+      <Project Name="inputoutput3" ConfigName="Release"/>
+      <Project Name="inputoutput4" ConfigName="Release"/>
+      <Project Name="inputoutput5" ConfigName="Release"/>
+      <Project Name="inputoutput5" ConfigName="Release"/>
+      <Project Name="inputoutput6" ConfigName="Release"/>
+      <Project Name="inputoutput7" ConfigName="Release"/>
+      <Project Name="Assignment1" ConfigName="Release"/>
+      <Project Name="globalvariable" ConfigName="Release"/>
+      <Project Name="globalvariable1" ConfigName="Release"/>
+      <Project Name="primitivedatetypes1" ConfigName="Release"/>
+      <Project Name="primitiveint" ConfigName="Release"/>
+      <Project Name="primitvefloat" ConfigName="Release"/>
+      <Project Name="declaringusingconstants" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

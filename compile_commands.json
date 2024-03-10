@@ -1,0 +1,77 @@
+[{
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\declaringusingconstants\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\declaringusingconstants",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\declaringusingconstants\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\declaringusingconstants\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\primitvefloat\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\primitvefloat",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\primitvefloat\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\primitvefloat\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\primitiveint\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\primitiveint",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\primitiveint\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\primitiveint\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\globalvariable1\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\globalvariable1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\globalvariable1\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\globalvariable1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput2\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput2",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput2\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput5\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput5",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput5\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput5\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput4\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput4",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput4\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput4\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\Assignment1\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\Assignment1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\Assignment1\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\Assignment1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput6\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput6",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput6\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput6\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\globalvariable\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\globalvariable",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\globalvariable\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\globalvariable\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput1\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput1\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput7\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput7",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput7\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\inputoutput7\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\namespace2\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\namespace2",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\namespace2\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\namespace2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\addition\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\addition",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\addition\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\addition\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\namespaces1\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\namespaces1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\namespaces1\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\namespaces1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\primitivedatetypes1\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\primitivedatetypes1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\primitivedatetypes1\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\primitivedatetypes1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inoutoutput2\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\inoutoutput2",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\inoutoutput2\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\inoutoutput2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\userinput\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\userinput",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\userinput\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\userinput\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\sharad\\Workspaces\\Workspace1\\project1\\main.cpp",
+  "directory": "C:\\Users\\sharad\\Workspaces\\Workspace1\\project1",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\sharad\\Workspaces\\Workspace1\\project1\\main.cpp -o C:\\Users\\sharad\\Workspaces\\Workspace1\\project1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
